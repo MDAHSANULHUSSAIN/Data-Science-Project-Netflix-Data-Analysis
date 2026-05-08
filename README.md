@@ -33,6 +33,8 @@ Drama genre is the most frequent genre in our dataset and has appeared more than
 
 Q2: What genres has highest votes?
 we have 25.5% of our dataset with popular vote (6520 rows). Drama again gets the highest popularity among fans by being having more than 18.5% movies  
+<img width="506" height="512" alt="image" src="https://github.com/user-attachments/assets/ada76c6c-c5bf-441f-87da-bf9bce3e772a" />
+
 
 Q3: What movie got the highest popularity? what's its genre?
 Spider-Man: No Way Home has the highest popularity rate in our dataset and it has genres of Action, Adventure and Sience Fiction.  
@@ -42,6 +44,8 @@ The united states, thread' has the highest lowest rate in our dataset and it has
 
 Q4: Which year has the most filmmed movies?
 year 2020 has the highest filmming rate in our dataset.
+<img width="569" height="435" alt="image" src="https://github.com/user-attachments/assets/36754dfe-2b47-4f88-8244-30f061842463" />
+
 
 Learning Resource
 This project was completed with the help of the following tutorial:https://youtu.be/tjIWRqqMDaw?si=30yfzok5Zoqwx_6z
