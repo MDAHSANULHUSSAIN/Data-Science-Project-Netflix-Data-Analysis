@@ -15,7 +15,7 @@ Pandas
 NumPy
 Matplotlib
 Seaborn
-Jupyter Notebook
+
 
 Key Analysis Performed
  Most frequent movie genres
